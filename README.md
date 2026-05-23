@@ -44,6 +44,10 @@ I'm Avinash B Nair, a tech enthusiast passionate about innovation, digital creat
   <img 
   src="https://img.shields.io/badge/RETECHNOX-Technologies%20AI%20%26%20Data%20Science%20Workshop-red?style=for-the-badge&color=000000" 
   alt="RETECHNOX Technologies AI and Data Science Workshop" />
+    <img 
+  src="https://img.shields.io/badge/BE10X-AI%20and%20Data%20Science%20Workshop-red?style=for-the-badge&color=000000" 
+  alt="BE10X AI and Data Science Workshop" />
+  
   </div>
 
 ---
@@ -57,9 +61,6 @@ I'm Avinash B Nair, a tech enthusiast passionate about innovation, digital creat
 
 
 ---
-  <img 
-  src="https://img.shields.io/badge/BE10X-AI%20and%20Data%20Science%20Workshop-red?style=for-the-badge&color=000000" 
-  alt="BE10X AI and Data Science Workshop" />
   
   
   
