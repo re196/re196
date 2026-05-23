@@ -57,7 +57,7 @@ I'm Avinash B Nair, a tech enthusiast passionate about innovation, digital creat
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    |Issue management and PG Discovery Application|
+| **[Project 1](https://github.com/re196/FIXITNOW#)**    |Issue management and PG Discovery Application|
 
 
 ---
